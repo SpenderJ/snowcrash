@@ -24,3 +24,13 @@ By watching the results we realize that ROT11 seems to make sense:
 ```
 ROT-11: nottoohardhere
 ```
+
+We are then going to connect as user flag00:
+```
+Login: su flag00
+Passwd: nottoohardhere
+getflag
+x24ti5gi3x0ol2eh4esiuxias
+```
+
+Next level
