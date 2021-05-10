@@ -11,7 +11,7 @@ To access the SSH server to copy file or to directly interact with the VM from y
 Then you should be able to connect using ssh.
 
 ```
-ssh levelXX@[IP] -p 4242
+ssh levelXX@127.0.0.1 -p 4242
 ```
 
 I hope that this quick workaround was usefull. Maybe some updates made it easier but for now that's the best trick I found.
