@@ -14,5 +14,5 @@ Then you should be able to connect using ssh.
 ssh levelXX@[IP] -p 4242
 ```
 
-I hope that this quick around was usefull. Maybe some updates made it easier but for now that's the best trick to use.
+I hope that this quick workaround was usefull. Maybe some updates made it easier but for now that's the best trick I found.
 
