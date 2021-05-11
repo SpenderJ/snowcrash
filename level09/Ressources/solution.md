@@ -19,4 +19,10 @@ So we can suppose that the token got hashed this way. Let's make a script to fix
 ggc main.c
 ./a.out `cat token`
 f3iji1ju5yuevaus41q1afiuq
+
+# to finish
+
+su flag09
+getflag
+Check flag.Here is your token : s5cAJpM8ev6XHw998pRWG728z
 ```
