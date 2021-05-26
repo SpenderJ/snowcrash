@@ -39,3 +39,6 @@ Erf nope..
 level11@SnowCrash:~$ cat /tmp/test
 Check flag.Here is your token : fa6v5ateaw21peobuub8ipe6s
 ```
+
+Tried to resolve the easter egg by doing a few things with the hash given to try to find the original password but couldn't decrypt the hash using sha1sum :/
+PR me if you find it :)
